@@ -4,6 +4,4 @@ The product screenshots in this directory are the official, version-controlled T
 
 The import preview at `../tidings-import-news-research.png` is generated separately by `tools/capture_tidings_import.cjs`. That script launches the local Tidings application with an isolated temporary profile, imports the published News and Research OPML files through the production IPC path, waits for live refresh results, and captures the resulting application window.
 
-`wechat-user-group.png` is the current QR code for the 拂晓 APP user group. The image states its own expiry date and should be replaced when a new code is issued.
-
 Tidings product assets remain subject to the Tidings product's own rights. The catalog metadata and repository-maintained files are released under CC0-1.0.
