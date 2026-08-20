@@ -87,6 +87,9 @@ AI 能力由你选择的独立 Provider 提供，可能需要自己的账号、A
 | **视频订阅** | **社区回帖** |
 | [![Tidings 视频订阅](https://tidings.info/assets/screenshots/videos-feed-zh.webp)](https://tidings.info/assets/screenshots/videos-feed-zh.webp) | [![Tidings 社区回帖](https://tidings.info/assets/screenshots/forum-zh.webp)](https://tidings.info/assets/screenshots/forum-zh.webp) |
 | 单独浏览视频订阅。 | 阅读支持站点的结构化讨论。 |
+| **第三方账户同步** | **毫秒级全局搜索** |
+| [![Tidings 连接 FreshRSS 账户](assets/tidings/freshrss-sync-zh.webp)](assets/tidings/freshrss-sync-zh.webp) | [![Tidings 全局搜索](assets/tidings/global-search-zh.webp)](assets/tidings/global-search-zh.webp) |
+| 现可连接 FreshRSS，双向同步订阅、分类、已读和收藏状态。 | 阅读过程中随时按 `⌘ G`，可按订阅源或文章标题搜索，选中后直接跳转。 |
 
 完整清单列在下面，可以按名称、介绍、主分类或所属合集查找。
 

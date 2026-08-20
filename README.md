@@ -80,6 +80,9 @@ AI features use an independent AI provider selected by the user, which may requi
 | **Video subscriptions** | **Community threads** |
 | [![Tidings video subscriptions](https://tidings.info/assets/screenshots/videos-feed-en.webp)](https://tidings.info/assets/screenshots/videos-feed-en.webp) | [![Tidings community threads](https://tidings.info/assets/screenshots/forum-en.webp)](https://tidings.info/assets/screenshots/forum-en.webp) |
 | Browse video subscriptions in their own view. | Read structured discussions from supported sites. |
+| **Third-party account sync** | **Millisecond global search** |
+| [![Tidings connects to a FreshRSS account](assets/tidings/freshrss-sync-zh.webp)](assets/tidings/freshrss-sync-zh.webp) | [![Tidings global search](assets/tidings/global-search-zh.webp)](assets/tidings/global-search-zh.webp) |
+| Connect FreshRSS to sync subscriptions, categories, read state, and saved items in both directions. | Press `⌘ G` while reading to find a feed or article title and jump straight to it. |
 
 The complete directory follows, with source names, descriptions, categories, and bundle membership.
 
