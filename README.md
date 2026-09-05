@@ -2,7 +2,7 @@
   <img src="https://tidings.info/apple-touch-icon.png" width="96" height="96" alt="Tidings app icon">
   <h1>Tidings RSS</h1>
   <p><strong>High-quality feeds, organized into OPML bundles you can import directly.</strong></p>
-  <p>Start with the Top 200, then use topic bundles or the 718-source directory when you want more. Catalog last checked: 2026-08-20.</p>
+  <p>Start with the Top 200, then use topic bundles or the 719-source directory when you want more. Catalog last checked: 2026-08-20.</p>
   <p><a href="README.zh-CN.md">简体中文</a> · <a href="#downloads">Download OPML</a> · <a href="RSS-GUIDE.md">RSS guide</a> · <a href="#complete-source-directory">Browse every source</a> · <a href="CONTRIBUTING.md">Suggest a feed</a> · <a href="https://tidings.info/">Get Tidings</a></p>
   <p>
     <a href="https://github.com/fuxiaoai/tidings-rss/actions/workflows/validate.yml"><img alt="Catalog validation" src="https://github.com/fuxiaoai/tidings-rss/actions/workflows/validate.yml/badge.svg"></a>
@@ -11,7 +11,7 @@
   </p>
 </div>
 
-For a first import, choose the Top 200. It keeps established publishers, long-running independent writers, first-party sources, and authors with strong community recognition from the 718-source directory. All 14 categories are represented, without leaving you hundreds of subscriptions to prune.
+For a first import, choose the Top 200. It keeps established publishers, long-running independent writers, first-party sources, and authors with strong community recognition from the 719-source directory. All 14 categories are represented, without leaving you hundreds of subscriptions to prune.
 
 The Top 200 balances Chinese and English sources across AI, engineering, security, technology media, newsletters, research, news, product, business, blogs, communities, culture, video, and podcasts. Use a topic bundle when you want more depth, or the complete collection when you want an archive to organize yourself.
 
@@ -22,18 +22,18 @@ If you are unsure, choose the Top 200. Topic bundles overlap; the complete colle
 | Collection | Feeds | Download | Best for |
 | --- | ---: | --- | --- |
 | ⭐ Top 200 (recommended) | `200` | [Download `tidings-top200.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-top200.opml) | Broad, high-quality coverage with a much smaller cleanup cost |
-| 📚 Complete collection | `718` | [Download `tidings-all.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-all.opml) | Keeping the full directory or pruning it yourself |
+| 📚 Complete collection | `719` | [Download `tidings-all.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-all.opml) | Keeping the full directory or pruning it yourself |
 | ✍️ Chinese independent blogs | `349` | [Download `tidings-blogs.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-blogs.opml) | Active Chinese personal writing |
 | 👥 Technical communities | `14` | [Download `tidings-communities.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-communities.opml) | V2EX, LINUX DO, Reddit, Hacker News, and other active discussions |
 | 🔐 Security | `8` | [Download `tidings-security.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-security.opml) | Vulnerabilities, defensive guidance, security research, and news |
 | 📰 Technology media | `10` | [Download `tidings-tech-media.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-tech-media.opml) | Technology news, products, and long-form reporting |
-| 📮 Technical newsletters | `9` | [Download `tidings-weeklies.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-weeklies.opml) | AI, JavaScript, Go, Rust, and Chinese technology weeklies |
+| 📮 Technical newsletters | `10` | [Download `tidings-weeklies.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-weeklies.opml) | AI, JavaScript, Go, Rust, and Chinese technology weeklies |
 | 💬 WeChat official accounts | `30` | [Download `tidings-wechat.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-wechat.opml) | Reading selected WeChat articles outside the app |
 | 🏢 Company technology | `40` | [Download `tidings-company-tech.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-company-tech.opml) | First-party engineering, AI, security, and research writing |
-| 🤖 Artificial intelligence | `99` | [Download `tidings-ai.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-ai.opml) | Models, research, tools, and technical viewpoints |
+| 🤖 Artificial intelligence | `100` | [Download `tidings-ai.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-ai.opml) | Models, research, tools, and technical viewpoints |
 | 🗞️ Fresh news | `44` | [Download `tidings-news.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-news.opml) | International, technology, security, and Chinese news |
 | 🔬 Research and science | `27` | [Download `tidings-research.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-research.opml) | Papers, journals, labs, and science reporting |
-| 🛠️ Engineering and technology | `419` | [Download `tidings-engineering.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-engineering.opml) | Software, architecture, developer tools, and engineering practice |
+| 🛠️ Engineering and technology | `420` | [Download `tidings-engineering.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-engineering.opml) | Software, architecture, developer tools, and engineering practice |
 | 🎬 Video channels | `93` | [Download `tidings-videos.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-videos.opml) | AI, software, science, and business video |
 | 🎧 Podcasts | `73` | [Download `tidings-podcasts.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-podcasts.opml) | Technology, business, science, and Chinese shows |
 | 🀄 Chinese-language sources | `469` | [Download `tidings-chinese.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-chinese.opml) | Chinese articles, communities, video, and audio |
@@ -89,7 +89,7 @@ The complete directory follows, with source names, descriptions, categories, and
 <!-- SOURCE_APPENDIX_START -->
 ## Complete source directory
 
-All 718 feeds in the complete collection are listed below with their primary category and bundles. This appendix is generated from `data/feeds.json`.
+All 719 feeds in the complete collection are listed below with their primary category and bundles. This appendix is generated from `data/feeds.json`.
 
 <details>
 <summary>🤖 Artificial Intelligence · 38</summary>
@@ -528,10 +528,11 @@ All 718 feeds in the complete collection are listed below with their primary cat
 </details>
 
 <details>
-<summary>📮 Tech Newsletters & Weeklies · 9</summary>
+<summary>📮 Tech Newsletters & Weeklies · 10</summary>
 
 | Source | Description | Primary category | Feed | Bundles |
 | --- | --- | --- | --- | --- |
+| [AI Weekly](https://aiweekly.co/) | Tracks what influential AI experts and organizations are reading and sharing across models, agents, funding, policy, and research. | Tech Newsletters & Weeklies | [RSS](https://aiweekly.co/feed) | ai, all, engineering, weeklies |
 | [Last Week in AI](https://lastweekin.ai) | A weekly digest of AI research, products, and policy. | Tech Newsletters & Weeklies | [RSS](https://lastweekin.ai/feed) | ai, all, engineering, top200, weeklies |
 | [The Batch](https://www.deeplearning.ai/the-batch/) | DeepLearning.AI’s weekly digest of AI news and research. | Tech Newsletters & Weeklies | [RSS](https://rsshub.bestblogs.dev/deeplearning/the-batch) | ai, all, engineering, top200, weeklies |
 | [AIGC Weekly](https://quaily.com/op7418/feed/atom) | A Chinese weekly on generative-AI products, tools, and industry developments. | Tech Newsletters & Weeklies | [RSS](https://quaily.com/op7418/feed/atom) | all, engineering, news, top200, weeklies |

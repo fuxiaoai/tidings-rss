@@ -2,7 +2,7 @@
   <img src="https://tidings.info/apple-touch-icon.png" width="96" height="96" alt="Tidings 应用图标">
   <h1>Tidings RSS</h1>
   <p><strong>把真正值得长期订阅的内容，整理成可以直接导入阅读器的 RSS 合集。</strong></p>
-  <p>先从精选 200 开始；需要更多选择时，再按主题下载或浏览 718 个全量源。目录最近检查：2026-08-20。</p>
+  <p>先从精选 200 开始；需要更多选择时，再按主题下载或浏览 719 个全量源。目录最近检查：2026-08-20。</p>
   <p>
     <a href="README.md">English</a> ·
     <a href="#直接下载">下载 OPML</a> ·
@@ -18,7 +18,7 @@
   </p>
 </div>
 
-第一次导入，建议直接选“精选 200”。它从 718 个全量源里留下大机构、长期创作者、官方一手内容和社区认可度较高的作者，14 个分类都有覆盖，导入后不用再面对几百个订阅逐一删减。
+第一次导入，建议直接选“精选 200”。它从 719 个全量源里留下大机构、长期创作者、官方一手内容和社区认可度较高的作者，14 个分类都有覆盖，导入后不用再面对几百个订阅逐一删减。
 
 精选包兼顾中文和英文内容，覆盖 AI、工程、安全、科技媒体、周刊、科研、新闻、产品、商业、博客、社区、文化、视频和播客。想把某个方向看得更全，可以继续选下面的主题包；“综合全集”更适合收藏和二次整理。
 
@@ -29,18 +29,18 @@
 | 合集 | 数量 | 下载 | 适合你，如果你想看…… |
 | --- | ---: | --- | --- |
 | ⭐ 精选 200（首选） | `200` | [下载 `tidings-top200.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-top200.opml) | 一次导入，各个方向都有高质量内容，后续整理成本也更低 |
-| 📚 综合全集 | `718` | [下载 `tidings-all.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-all.opml) | 完整收藏，或导入后自行删减 |
+| 📚 综合全集 | `719` | [下载 `tidings-all.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-all.opml) | 完整收藏，或导入后自行删减 |
 | ✍️ 中文独立博客 | `349` | [下载 `tidings-blogs.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-blogs.opml) | 仍在认真写作的中文个人博客 |
 | 👥 技术社区 | `14` | [下载 `tidings-communities.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-communities.opml) | V2EX、LINUX DO、Reddit、Hacker News 等社区讨论 |
 | 🔐 安全 | `8` | [下载 `tidings-security.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-security.opml) | 漏洞、攻防研究、安全通告与行业动态 |
 | 📰 科技媒体 | `10` | [下载 `tidings-tech-media.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-tech-media.opml) | 国内外科技新闻、产品与深度报道 |
-| 📮 技术周刊 | `9` | [下载 `tidings-weeklies.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-weeklies.opml) | AI、JavaScript、Go、Rust 与中文技术周刊 |
+| 📮 技术周刊 | `10` | [下载 `tidings-weeklies.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-weeklies.opml) | AI、JavaScript、Go、Rust 与中文技术周刊 |
 | 💬 微信公众号 | `30` | [下载 `tidings-wechat.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-wechat.opml) | 在阅读器里集中阅读公众号文章 |
 | 🏢 大厂技术号 | `40` | [下载 `tidings-company-tech.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-company-tech.opml) | 国内外技术团队的一手工程、AI、安全与研究文章 |
-| 🤖 AI / 人工智能 | `99` | [下载 `tidings-ai.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-ai.opml) | 模型进展、研究、工具和技术观点 |
+| 🤖 AI / 人工智能 | `100` | [下载 `tidings-ai.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-ai.opml) | 模型进展、研究、工具和技术观点 |
 | 🗞️ 最新新闻 | `44` | [下载 `tidings-news.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-news.opml) | 国际、科技、安全和中文新闻 |
 | 🔬 科研与科学 | `27` | [下载 `tidings-research.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-research.opml) | 论文、期刊、实验室和科学报道 |
-| 🛠️ 工程与技术 | `419` | [下载 `tidings-engineering.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-engineering.opml) | 编程、架构、开发工具和工程实践 |
+| 🛠️ 工程与技术 | `420` | [下载 `tidings-engineering.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-engineering.opml) | 编程、架构、开发工具和工程实践 |
 | 🎬 视频频道 | `93` | [下载 `tidings-videos.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-videos.opml) | AI、编程、科学和商业视频 |
 | 🎧 播客 | `73` | [下载 `tidings-podcasts.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-podcasts.opml) | 科技、商业、科学与中文节目 |
 | 🀄 中文订阅源 | `469` | [下载 `tidings-chinese.opml`](https://github.com/fuxiaoai/tidings-rss/releases/latest/download/tidings-chinese.opml) | 中文文章、社区、视频和音频 |
@@ -96,7 +96,7 @@ AI 能力由你选择的独立 Provider 提供，可能需要自己的账号、A
 <!-- SOURCE_APPENDIX_START -->
 ## 全量源清单
 
-下面列出全集中的 718 个订阅源。每项都标明主分类与所属合集；内容由 `data/feeds.json` 生成。
+下面列出全集中的 719 个订阅源。每项都标明主分类与所属合集；内容由 `data/feeds.json` 生成。
 
 <details>
 <summary>🤖 人工智能 · 38</summary>
@@ -535,10 +535,11 @@ AI 能力由你选择的独立 Provider 提供，可能需要自己的账号、A
 </details>
 
 <details>
-<summary>📮 技术周刊 · 9</summary>
+<summary>📮 技术周刊 · 10</summary>
 
 | 名称 | 介绍 | 主分类 | Feed | 所属合集 |
 | --- | --- | --- | --- | --- |
+| [AI Weekly](https://aiweekly.co/) | 追踪有影响力的 AI 专家和机构正在阅读与分享的模型、智能体、融资、政策与研究动态。 | 技术周刊 | [RSS](https://aiweekly.co/feed) | AI、全集、工程、技术周刊 |
 | [Last Week in AI](https://lastweekin.ai) | 每周梳理人工智能研究、产品与政策动态。 | 技术周刊 | [RSS](https://lastweekin.ai/feed) | AI、全集、工程、精选 200、技术周刊 |
 | [The Batch](https://www.deeplearning.ai/the-batch/) | DeepLearning.AI 的人工智能新闻与研究周报。 | 技术周刊 | [RSS](https://rsshub.bestblogs.dev/deeplearning/the-batch) | AI、全集、工程、精选 200、技术周刊 |
 | [AIGC Weekly](https://quaily.com/op7418/feed/atom) | 中文生成式 AI 产品、工具与行业观察周刊。 | 技术周刊 | [RSS](https://quaily.com/op7418/feed/atom) | 全集、工程、新闻、精选 200、技术周刊 |

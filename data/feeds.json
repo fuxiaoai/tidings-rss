@@ -4,9 +4,9 @@
   "validation": {
     "engine": "Tidings parseFeedUrl",
     "criteria": "Chinese independent blogs passed three parser rounds, had at least two dated posts and updated within 180 days; retained catalog feeds passed two current parser rounds. WeChat additions passed two two-second time-to-first-byte probes, Tidings parsing, and a 180-day freshness check. Community additions passed three current Tidings parser rounds and exposed recently dated discussions. Security, technology-media, and weekly additions passed three current Tidings parser rounds and an editorial relevance review. The Top 200 is a balanced subset whose 307-candidate pool was checked three times; every published feed returned articles and real publication dates in all three Tidings parser rounds.",
-    "candidate_count": 2279,
-    "parser_passed": 718,
-    "retained_count": 718
+    "candidate_count": 2280,
+    "parser_passed": 719,
+    "retained_count": 719
   },
   "feeds": [
     {
@@ -49,6 +49,28 @@
       "validated_at": "2026-08-12",
       "latest_item_at": "2026-07-09T19:01:28Z",
       "description": "Artificial Intelligence 订阅源"
+    },
+    {
+      "id": "1f5909fe8049",
+      "title": "AI Weekly",
+      "feed_url": "https://aiweekly.co/feed",
+      "site_url": "https://aiweekly.co/",
+      "category": "Tech Newsletters & Weeklies",
+      "kind": "article",
+      "language": "en",
+      "packs": [
+        "ai",
+        "all",
+        "engineering",
+        "weeklies"
+      ],
+      "sources": [
+        "community-submission-2026-09-05"
+      ],
+      "validated_at": "2026-09-05",
+      "latest_item_at": "2026-09-01T00:00:00Z",
+      "description": "追踪有影响力的 AI 专家和机构正在阅读与分享的模型、智能体、融资、政策与研究动态。",
+      "description_en": "Tracks what influential AI experts and organizations are reading and sharing across models, agents, funding, policy, and research."
     },
     {
       "id": "59828b60c06c",

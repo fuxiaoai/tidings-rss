@@ -412,6 +412,7 @@
       <outline text="Ars Technica" title="Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com" />
     </outline>
     <outline text="📮 Tech Newsletters &amp; Weeklies" title="📮 Tech Newsletters &amp; Weeklies">
+      <outline text="AI Weekly" title="AI Weekly" type="rss" xmlUrl="https://aiweekly.co/feed" htmlUrl="https://aiweekly.co/" />
       <outline text="AIGC Weekly" title="AIGC Weekly" type="rss" xmlUrl="https://quaily.com/op7418/feed/atom" htmlUrl="https://quaily.com/op7418/feed/atom" />
       <outline text="Golang Weekly" title="Golang Weekly" type="rss" xmlUrl="https://golangweekly.com/rss/" htmlUrl="https://golangweekly.com/" />
       <outline text="JavaScript Weekly" title="JavaScript Weekly" type="rss" xmlUrl="https://javascriptweekly.com/rss/" htmlUrl="https://javascriptweekly.com/" />
