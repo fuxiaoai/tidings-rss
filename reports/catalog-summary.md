@@ -7,19 +7,19 @@ Generated and validated on **2026-08-13** with **Tidings parseFeedUrl**.
 | Bundle | Feeds |
 | --- | ---: |
 | `tidings-top200.opml` | 200 |
-| `tidings-all.opml` | 718 |
+| `tidings-all.opml` | 719 |
 | `tidings-blogs.opml` | 349 |
 | `tidings-communities.opml` | 14 |
 | `tidings-security.opml` | 8 |
 | `tidings-tech-media.opml` | 10 |
-| `tidings-weeklies.opml` | 9 |
-| `tidings-ai.opml` | 99 |
+| `tidings-weeklies.opml` | 10 |
+| `tidings-ai.opml` | 100 |
 | `tidings-videos.opml` | 93 |
 | `tidings-podcasts.opml` | 73 |
 | `tidings-news.opml` | 44 |
 | `tidings-research.opml` | 27 |
 | `tidings-chinese.opml` | 469 |
-| `tidings-engineering.opml` | 419 |
+| `tidings-engineering.opml` | 420 |
 | `tidings-company-tech.opml` | 40 |
 | `tidings-wechat.opml` | 30 |
 
@@ -31,7 +31,7 @@ Generated and validated on **2026-08-13** with **Tidings parseFeedUrl**.
 | Engineering & Technology | 348 |
 | Security | 8 |
 | Technology Media | 10 |
-| Tech Newsletters & Weeklies | 9 |
+| Tech Newsletters & Weeklies | 10 |
 | Research & Science | 19 |
 | News | 22 |
 | Product & Design | 5 |
