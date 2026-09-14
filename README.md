@@ -2,7 +2,7 @@
   <img src="https://tidings.info/apple-touch-icon.png" width="96" height="96" alt="Tidings app icon">
   <h1>Tidings RSS</h1>
   <p><strong>High-quality feeds, organized into OPML bundles you can import directly.</strong></p>
-  <p>Start with the Top 200, then use topic bundles or the 718-source directory when you want more. Catalog last checked: 2026-09-10.</p>
+  <p>Start with the Top 200, then use topic bundles or the 718-source directory when you want more. Catalog last checked: 2026-09-14.</p>
   <p><a href="README.zh-CN.md">简体中文</a> · <a href="#downloads">Download OPML</a> · <a href="RSS-GUIDE.md">RSS guide</a> · <a href="#complete-source-directory">Browse every source</a> · <a href="CONTRIBUTING.md">Suggest a feed</a> · <a href="https://tidings.info/">Get Tidings</a></p>
   <p>
     <a href="https://github.com/fuxiaoai/tidings-rss/actions/workflows/validate.yml"><img alt="Catalog validation" src="https://github.com/fuxiaoai/tidings-rss/actions/workflows/validate.yml/badge.svg"></a>
@@ -59,6 +59,24 @@ Tidings is currently available for macOS 12 and later.
 Any compatible reader can import these files. Tidings is the recommended reader for importing the complete directory: it preserves the OPML groups and keeps RSS, Atom, JSON Feed, video subscriptions, and supported community threads in one library.
 
 [![RSS bundles imported into Tidings](https://cdn.jsdelivr.net/gh/fuxiaoai/tidings-rss@v1.1.0/assets/tidings-import-news-research.png)](assets/tidings-import-news-research.png)
+
+### News, blogs, videos, WeChat, podcasts, and images in one app
+
+Tidings parses and aggregates these different sources into one library, so you can read articles, browse images, watch videos, and listen to podcasts in the same app. Import RSS, Atom, or JSON Feed subscriptions and keep your sources organized together.
+
+### Listen to podcasts whenever you like
+
+Play audio podcasts directly in Tidings, adjust playback speed, download episodes, and move to any point with the progress bar. Skip back or forward 15 seconds to replay a detail or move ahead, and keep playback controls within reach with the mini player.
+
+[![Tidings audio podcasts with playback, download, and progress controls (Chinese interface)](assets/tidings/podcast-player-zh.png)](assets/tidings/podcast-player-zh.png)
+
+### Highlight a passage, capture a thought, or ask AI
+
+While reading, select a memorable passage to highlight it, add a note, or write down your own thoughts. Choose Ask AI from the selection toolbar to ask about the passage without leaving the article. The Notes view brings your highlights and thoughts together, with links back to the marked passages for review.
+
+[![Select text to highlight, write a thought, or ask AI in Tidings (Chinese interface)](assets/tidings/reading-highlight-ai-zh.png)](assets/tidings/reading-highlight-ai-zh.png)
+
+[![Tidings Notes view with saved highlights and personal thoughts beside the original article (Chinese interface)](assets/tidings/reading-notes-zh.png)](assets/tidings/reading-notes-zh.png)
 
 ### AI from the unread list into every article
 

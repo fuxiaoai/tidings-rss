@@ -2,7 +2,7 @@
   <img src="https://tidings.info/apple-touch-icon.png" width="96" height="96" alt="Tidings 应用图标">
   <h1>Tidings RSS</h1>
   <p><strong>把真正值得长期订阅的内容，整理成可以直接导入阅读器的 RSS 合集。</strong></p>
-  <p>先从精选 200 开始；需要更多选择时，再按主题下载或浏览 718 个全量源。目录最近检查：2026-09-10。</p>
+  <p>先从精选 200 开始；需要更多选择时，再按主题下载或浏览 718 个全量源。目录最近检查：2026-09-14。</p>
   <p>
     <a href="README.md">English</a> ·
     <a href="#直接下载">下载 OPML</a> ·
@@ -66,6 +66,24 @@ Tidings 目前提供 macOS 版，支持 macOS 12 及以上。
 这些 OPML 可以导入任何兼容阅读器。如果准备直接导入整套目录，推荐使用 Tidings：它会保留合集中的分类，RSS、Atom、JSON Feed、视频订阅和社区内容也能放在同一个资料库里阅读。
 
 [![在 Tidings 中导入 RSS 合集](https://cdn.jsdelivr.net/gh/fuxiaoai/tidings-rss@v1.1.0/assets/tidings-import-news-research.png)](assets/tidings-import-news-research.png)
+
+### 资讯、博客、视频、公众号、播客、图片，一个软件统一查看
+
+Tidings 将不同类型的信息源解析、聚合到同一个资料库。读资讯和博客、看公众号文章、浏览图片、看视频、听播客，都可以在一个软件里完成。导入 RSS、Atom 或 JSON Feed 订阅后，各类内容可以一起管理，也可以按内容类型浏览。
+
+### 随时听播客，按自己的节奏播放
+
+在 Tidings 里直接播放音频播客，支持倍速、下载和拖动进度条调整播放位置。想重听一句或跳过一段，可以后退或前进 15 秒；迷你播放器也让播放控制随时触手可及。
+
+[![Tidings 音频播客：播放、下载、进度调整与迷你播放器](assets/tidings/podcast-player-zh.png)](assets/tidings/podcast-player-zh.png)
+
+### 读到金句就划线，有想法就记下来
+
+阅读过程中，选中文字就能标记金句、记录笔记、写下自己的想法；遇到想深入了解的内容，也可以直接通过划线工具「问 AI」，围绕选中的段落提问，不用离开文章。笔记列表集中保存划线与想法，回顾时还能定位到原文中的标记位置。
+
+[![Tidings 划线工具：写想法、划线与问 AI](assets/tidings/reading-highlight-ai-zh.png)](assets/tidings/reading-highlight-ai-zh.png)
+
+[![Tidings 笔记列表：集中回顾划线与想法，并定位原文](assets/tidings/reading-notes-zh.png)](assets/tidings/reading-notes-zh.png)
 
 ### AI 从未读列表一直跟到文章里
 
