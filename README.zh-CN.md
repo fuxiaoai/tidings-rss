@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://tidings.info/apple-touch-icon.png" width="96" height="96" alt="Tidings 应用图标">
   <h1>Tidings RSS</h1>
+  <p><strong>RSS 是一种主动订阅内容的方式，让你在一个阅读器里看自己关注的资讯、博客、公众号和 YouTube 更新、听播客，没有平台插入的信息流广告；在信息茧房时代，它把选择优质信息源、接触不同观点的主动权交回你手里。</strong></p>
   <p><strong>把真正值得长期订阅的内容，整理成可以直接导入阅读器的 RSS 合集。</strong></p>
-  <p>先从精选 200 开始；需要更多选择时，再按主题下载或浏览 718 个全量源。目录最近检查：2026-09-14。</p>
+  <p>先从精选 200 开始；需要更多选择时，再按主题下载或浏览 718 个全量源。目录最近检查：2026-10-01。</p>
   <p>
     <a href="README.md">English</a> ·
     <a href="#直接下载">下载 OPML</a> ·
