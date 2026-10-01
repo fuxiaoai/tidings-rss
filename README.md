@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://tidings.info/apple-touch-icon.png" width="96" height="96" alt="Tidings app icon">
   <h1>Tidings RSS</h1>
+  <p><strong>RSS lets you subscribe to sources you choose, bringing quality news, blogs, WeChat articles, YouTube updates, and podcasts into one reader without platform-inserted feed ads; in an age of algorithmic filter bubbles, it puts you in control of what you follow and which perspectives you explore.</strong></p>
   <p><strong>High-quality feeds, organized into OPML bundles you can import directly.</strong></p>
-  <p>Start with the Top 200, then use topic bundles or the 718-source directory when you want more. Catalog last checked: 2026-09-14.</p>
+  <p>Start with the Top 200, then use topic bundles or the 718-source directory when you want more. Catalog last checked: 2026-10-01.</p>
   <p><a href="README.zh-CN.md">简体中文</a> · <a href="#downloads">Download OPML</a> · <a href="RSS-GUIDE.md">RSS guide</a> · <a href="#complete-source-directory">Browse every source</a> · <a href="CONTRIBUTING.md">Suggest a feed</a> · <a href="https://tidings.info/">Get Tidings</a></p>
   <p>
     <a href="https://github.com/fuxiaoai/tidings-rss/actions/workflows/validate.yml"><img alt="Catalog validation" src="https://github.com/fuxiaoai/tidings-rss/actions/workflows/validate.yml/badge.svg"></a>
